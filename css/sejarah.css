@@ -1,0 +1,48 @@
+h1 {
+    color: #333333;
+}
+
+.textParagraphContainer {
+    width: 100%;
+    background-color: #ffffff;
+    padding: 0 100px 0px 100px;
+    margin: 10px auto;
+}
+
+.textParagraph {
+    font-size: 14px;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+.bigHead {
+    padding-top: 150px;
+    font-size: larger;
+    padding-bottom: 50px;
+    color: #333333;
+}
+
+.mediumHead {
+    padding-top: 50px;
+    font-size: medium;
+    text-align: left;
+    margin-left: 145px;
+}
+
+.imageParagraphRight {
+    float: right;
+    width: 200px;
+    position: relative;
+}
+
+.imageParagraphleft {
+    float: left;
+    width: 200px;
+    position: absolute;
+}
+
+.imageParagraphMid {
+    margin: 10px 0 20px 250px;
+    width: 500px;
+    position: relative;
+}

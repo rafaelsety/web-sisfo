@@ -1,0 +1,96 @@
+.bigHead {
+    padding-top: 150px;
+    font-size: larger;
+    padding-bottom: 50px;
+}
+.mediumHead {
+    padding-top: 50px;
+    font-size: medium;
+    text-align: left;
+    margin-left: 145px;
+}
+.textParagraphContainer {
+    width: 100%;
+    background-color: #ffffff;
+    padding: 0 100px 0px 100px;
+    margin: 10px auto;
+}
+.textParagraph {
+    font-size: 14px;
+    color: #333333;
+    background-color: #ffffff;  
+}
+
+
+input[type=text], textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #333333;
+    resize: vertical;
+}
+  
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+  
+input[type=submit] {
+    background-color: #264828;
+    color: #ffffff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+  
+input[type=submit]:hover {
+    background-color: #333333;
+}
+  
+.containerForm {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+  
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+  
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+  
+
+.komenNama {
+    font-size: 20px;
+}
+.komenEmail {
+    margin-top: 10px;
+    font-size: 18px;
+}
+.komenOutputBox {
+    padding: 10px;
+    margin-top: 20px;
+    color: #333333;
+    border: solid #333333 1px;
+}
+.komenOutput {
+    font-size: 16px;
+}
+.textKomen {
+    font-size: 14px;
+    color: #333333;
+}
+.textKomen ul {
+    list-style-type: none;
+    margin : 10px;
+    padding: 0 0 0 50px;
+    overflow: hidden;
+}

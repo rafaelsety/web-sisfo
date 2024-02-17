@@ -1,0 +1,19 @@
+.slideshowContainer {
+  width: 1400px;
+  position: relative;
+  margin: auto;
+  padding-top: 50px;
+}
+.mySlides {
+  display: none;
+}
+.captionText {
+  font-size: 50px;
+  color: #f2f2f2;
+  position: absolute;
+  margin-left: 20px;
+  bottom: 700px;
+  width: 100%;
+  text-align: left;
+  font-weight: 700;
+}

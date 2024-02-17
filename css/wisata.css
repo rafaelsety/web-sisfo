@@ -1,0 +1,36 @@
+.bigHead {
+  padding-top: 150px;
+  font-size: larger;
+  padding-bottom: 50px;
+}
+.mediumHead {
+  padding-top: 50px;
+  font-size: medium;
+  text-align: left;
+  margin-left: 145px;
+}
+.textParagraphContainer {
+  width: 100%;
+  background-color: #ffffff;
+  padding: 0 100px 0px 100px;
+  margin: 10px auto;
+}
+.textParagraph {
+  font-size: 14px;
+  color: #333333;
+  background-color: #ffffff;  
+}
+.scrollContainer {
+  background-color: #ffffff;
+  overflow: auto;
+  white-space: nowrap;
+  margin: 20px auto;
+  padding: 10px;
+  max-width: 1000px;
+  max-height: 500px;
+  justify-content: center;
+  align-content: center;
+}
+.scrollContainer img {
+  padding: 10px;
+}
